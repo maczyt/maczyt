@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+
+![](https://visitor-badge.glitch.me/badge?page_id=maczyt.maczyt)
+
+I am a fish touch front end engineer. 
+
+- 🔭 I’m currently working on @youzan
+- 🌱 I’m currently learning vue3/algorithm
+- 👯 I’m looking to collaborate on something （逃
+- 💬 Ask me about [Anything](https://github.com/maczyt/maczyt/issues)
 
 <!--
 **maczyt/maczyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
