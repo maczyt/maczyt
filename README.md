@@ -1,11 +1,11 @@
 ### Hi there 👋 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=maczyt.maczyt)
+![](https://hit.yhype.me/github/profile?user_id=12051958)
 
 I am a fish touch front end engineer. 
 
-- 🔭 I’m currently working on @youzan
-- 🌱 I’m currently learning vue3/algorithm
+- 🔭 I’m currently working on @zoom
 - 👯 I’m looking to collaborate on something （逃
 - 💬 Ask me about [Anything](https://github.com/maczyt/maczyt/issues)
 
